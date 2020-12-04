@@ -80,8 +80,8 @@ Food Eazy, is an online platform to order food and avoiding the hassle of going 
 ## Contributors 🤝
  - [**Divyansh kumar singh**] 
  - [**Harsh Walia**]
- -[**Nikhil Choudhary**]
- -[**Swatik Paul**]
+ - [**Nikhil Choudhary**] 
+  - [**Swatik Paul**] 
  
  
 ## 🤩 Don't forget to give this repo a ⭐ if you like this repo and want to appreciate our efforts
