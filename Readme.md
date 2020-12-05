@@ -1,11 +1,7 @@
 # Welcome to ONLINE_FOOD_ORDERING_WEBSITE ✨
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://foodeazy.herokuapp.com/)&nbsp;[![Build passing](https://img.shields.io/badge/Build-Passing-brightgreen.svg?style=flat-square)](https://foodeazy.herokuapp.com/)&nbsp;[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://foodeazy.herokuapp.com/)&nbsp;[![License](https://img.shields.io/badge/license-MIT-brightgreen)](https://foodeazy.herokuapp.com/)&nbsp;![Made with Love in India](https://madewithlove.org.in/badge.svg)
+This website is a part of our **Software Engineering Lab** Course.
 
-Food Eazy, is an online platform to order food and avoiding the hassle of going out or paying in cash. The users can opt for home delivery or take away as per thier choice and can pay thorugh cash or online methods (PayTM). In the times of COVID-19 where social distancing is such an important measure we think our website can help restaurants and customers.
-
-<!-- **Project Link** - ***https://foodeazy.herokuapp.com/***
-**Or**  - ***http://foodeazy.devforlife07.codes/*** -->
-
+We have made an online platform for our dummy client's restaurant that allow the customers to order food and avoid the hassle of going out or paying in cash. The users can opt for home delivery or take away as per their choice and can pay thorugh cash or online methods (PayTM). 
 
 ## Features and Functionalities 😃
 **User features**
@@ -25,19 +21,21 @@ Food Eazy, is an online platform to order food and avoiding the hassle of going 
  - Add new dishes
  - Delete dishes
  ## Screenshots
- ### Login Page![enter image description here](https://raw.githubusercontent.com/Devforlife07/foodeazy/master/readme_images/login.png?token=ALT5AMAOLRKFR423UUHLK6C7KJJ4Y)
-### Email Verify Page![enter image description here](https://raw.githubusercontent.com/mihir0699/foodeazy/master/readme_images/verify.png?token=ALT5AMCAUZLVKWU4UFAGZVC7KJKEG)
+ ### Login Page
+![enter image description here](https://raw.githubusercontent.com/harshwalia36/Online_Food_ordering_system/master/readme_images/login.png?token=ALT5AMAOLRKFR423UUHLK6C7KJJ4Y)
+### Email Verify Page
+![enter image description here](https://raw.githubusercontent.com/harshwalia36/Online_Food_ordering_system/master/readme_images/verify.png?token=ALT5AMCAUZLVKWU4UFAGZVC7KJKEG)
 ### Home Page
-![enter image description here](https://raw.githubusercontent.com/mihir0699/foodeazy/master/readme_images/menu.png?token=ALT5AMAG4JWL7EOHY2IT7JC7KJKAQ)
+![enter image description here](https://raw.githubusercontent.com/harshwalia36/Online_Food_ordering_system/master/readme_images/menu.png?token=ALT5AMAG4JWL7EOHY2IT7JC7KJKAQ)
 
 ### Cart
-![enter image description here](https://raw.githubusercontent.com/mihir0699/foodeazy/master/readme_images/cart.png?token=ALT5AMCPL6C2W723CZYJZZK7KJKYY)
+![enter image description here](https://raw.githubusercontent.com/harshwalia36/Online_Food_ordering_system/master/readme_images/cart.png?token=ALT5AMCPL6C2W723CZYJZZK7KJKYY)
 ### Checkout
-![enter image description here](https://raw.githubusercontent.com/mihir0699/foodeazy/master/readme_images/checkout.png?token=ALT5AMHX44VS5BX2PHTDSY27KJK4K)
+![enter image description here](https://raw.githubusercontent.com/harshwalia36/Online_Food_ordering_system/master/readme_images/checkout.png?token=ALT5AMHX44VS5BX2PHTDSY27KJK4K)
 ### Add Dish (Admin)
-![enter image description here](https://raw.githubusercontent.com/mihir0699/foodeazy/master/readme_images/add_dish.png?token=ALT5AMAOEZ2YQ2ECJJMYZCC7KJK6I)
+![enter image description here](https://raw.githubusercontent.com/harshwalia36/Online_Food_ordering_system/master/readme_images/add_dish.png?token=ALT5AMAOEZ2YQ2ECJJMYZCC7KJK6I)
 ### Delete Dish (Admin)
-![enter image description here](https://raw.githubusercontent.com/mihir0699/foodeazy/master/readme_images/delete_items.png?token=ALT5AMHLZNKOIMXWOKUKY7K7KJLCE)
+![enter image description here](https://raw.githubusercontent.com/harshwalia36/Online_Food_ordering_system/master/readme_images/delete_items.png?token=ALT5AMHLZNKOIMXWOKUKY7K7KJLCE)
 ## Tech Stack 💻
 
  - [React.js](https://reactjs.org/)
@@ -57,8 +55,8 @@ Food Eazy, is an online platform to order food and avoiding the hassle of going 
 
  **1. Clone this repo by running the following command :-**
  ```bash
-  git clone https://github.com/Devforlife07/FoodEazy
-  cd foodeazy
+  git clone https://github.com/harshwalia36/Online_Food_ordering_system
+  cd Online_Food_ordering_system
  ```
  
  **2. Now install all the required packages by running the following commands :-**
@@ -70,24 +68,17 @@ Food Eazy, is an online platform to order food and avoiding the hassle of going 
  ```bash
   npm run dev
  ```
- **3. Create a `.env` file in the project root folder and copy the format of `.env.sample` file.**
+ **4. Create a `.env` file in the project root folder and copy the format of `.env.sample` file.**
 
    - `.env.sample` file contains all the environment variables required for running the project.
    
    
- **4.** **🎉  Open your browser and go to  `https://localhost:3000`**
+ **5. Open your browser and go to  `https://localhost:3000`**
  
 ## Contributors 🤝
  - [**Divyansh kumar singh**] 
  - [**Harsh Walia**]
  - [**Nikhil Choudhary**] 
   - [**Swatik Paul**] 
- 
- 
-## 🤩 Don't forget to give this repo a ⭐ if you like this repo and want to appreciate our efforts
- 
-
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
 
 
