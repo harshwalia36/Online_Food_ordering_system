@@ -20,22 +20,7 @@ We have made an online platform for our dummy client's restaurant that allow the
  
  - Add new dishes
  - Delete dishes
- ## Screenshots
- ### Login Page
-![enter image description here](https://raw.githubusercontent.com/harshwalia36/Online_Food_ordering_system/master/readme_images/login.png?token=ALT5AMAOLRKFR423UUHLK6C7KJJ4Y)
-### Email Verify Page
-![enter image description here](https://raw.githubusercontent.com/harshwalia36/Online_Food_ordering_system/master/readme_images/verify.png?token=ALT5AMCAUZLVKWU4UFAGZVC7KJKEG)
-### Home Page
-![enter image description here](https://raw.githubusercontent.com/harshwalia36/Online_Food_ordering_system/master/readme_images/menu.png?token=ALT5AMAG4JWL7EOHY2IT7JC7KJKAQ)
 
-### Cart
-![enter image description here](https://raw.githubusercontent.com/harshwalia36/Online_Food_ordering_system/master/readme_images/cart.png?token=ALT5AMCPL6C2W723CZYJZZK7KJKYY)
-### Checkout
-![enter image description here](https://raw.githubusercontent.com/harshwalia36/Online_Food_ordering_system/master/readme_images/checkout.png?token=ALT5AMHX44VS5BX2PHTDSY27KJK4K)
-### Add Dish (Admin)
-![enter image description here](https://raw.githubusercontent.com/harshwalia36/Online_Food_ordering_system/master/readme_images/add_dish.png?token=ALT5AMAOEZ2YQ2ECJJMYZCC7KJK6I)
-### Delete Dish (Admin)
-![enter image description here](https://raw.githubusercontent.com/harshwalia36/Online_Food_ordering_system/master/readme_images/delete_items.png?token=ALT5AMHLZNKOIMXWOKUKY7K7KJLCE)
 ## Tech Stack 💻
 
  - [React.js](https://reactjs.org/)
